@@ -81,6 +81,7 @@ Browser control, web scraping, and internet interaction agents.
 - [Vibe Eyes](https://github.com/monteslu/vibe-eyes) - MCP server that enables LLMs to see and interact with browser-based applications.
 - [Browser Harness](https://github.com/browser-use/browser-harness) - Self-healing harness that enables LLMs to complete browser tasks.
 - [Agent Reach](https://github.com/Panniantong/Agent-Reach) - Tool for giving AI agents access to Twitter, Reddit, YouTube, GitHub, and more.
+- [AIHawk](https://github.com/feder-cr/AIHawk) - Open-source AI browser agent that browses, clicks, types, and reads the web from plain-English instructions, available as an MCP server (Claude Code, Codex, Gemini CLI) or a standalone web UI.
 
 ## Voice & Conversational AI
 
