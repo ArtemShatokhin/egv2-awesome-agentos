@@ -19,6 +19,14 @@ An entry belongs on this list if it helps **build, run, or extend an agent opera
 - **Productivity and personal assistants** — chat interfaces, AI companions, and workspace tools
 - **MCP and tool integration** — Model Context Protocol servers and tool connectivity
 
+## Inclusion Test
+
+When in doubt, apply this test: an entry belongs on this list only if an AI agent operates, coordinates, or consumes it directly at runtime. Ask the question: does an agent drive this project, or does it merely run alongside one?
+
+- Frameworks, runtimes, and harnesses that orchestrate agents or manage their state, tools, or permissions belong.
+- Capabilities that agents call while working, such as browser control, voice, memory, sandboxing, model serving, or document parsing, belong.
+- Tools that only a human would use, standalone models, and research papers without a runnable system do not belong.
+
 ## Submission Guidelines
 
 Before submitting a pull request, ensure your contribution meets these criteria:

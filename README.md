@@ -25,7 +25,6 @@ Frameworks for building, deploying, and managing multi-agent systems.
 - [Eliza](https://github.com/elizaOS/eliza) - Multi-agent simulation framework with Discord, Telegram, and Twitter integration.
 - [n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities and 400+ integrations.
 - [Sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
-- [Flowise](https://github.com/FlowiseAI/Flowise) - Drag-and-drop interface for building LLM orchestration flows and AI agents. **(unmaintained)**
 - [Langflow](https://github.com/langflow-ai/langflow) - Low-code platform for building and deploying AI-powered agents and workflows.
 - [SmythOS](https://github.com/SmythOS/sre) - Cloud-native runtime for building, running, and managing agentic AI systems.
 - [Activepieces](https://github.com/activepieces/activepieces) - Open-source AI automation framework with MCP server support.
@@ -62,7 +61,6 @@ Agents that control desktops, interact with operating systems, and automate comp
 - [Puter](https://github.com/HeyPuter/puter) - Open-source, self-hostable cloud desktop operating system.
 - [Agent-S](https://github.com/simular-ai/Agent-S) - Open agentic framework designed to use computers like a human.
 - [UI-TARS Desktop](https://github.com/bytedance/UI-TARS-desktop) - Open-source multimodal AI agent stack for desktop automation.
-- [Bytebot](https://github.com/bytebot-ai/bytebot) - Self-hosted AI desktop agent that automates computer tasks via natural language. **(unmaintained)**
 - [Coworker](https://github.com/accomplish-ai/coworker) - Open-source AI coworker that lives on your desktop.
 - [Project NOMAD](https://github.com/Crosstalk-Solutions/project-nomad) - Self-contained, offline survival computer with tools, knowledge, and AI.
 - [CUA](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents with sandboxes, SDKs, and benchmarks.
@@ -127,7 +125,6 @@ Image generation, video creation, 3D modeling, and visual manipulation tools.
 - [Short Video Maker](https://github.com/gyoridavid/short-video-maker) - Creates short videos for TikTok, Instagram Reels, and YouTube Shorts using MCP.
 - [Node Banana](https://github.com/shrimbly/node-banana) - Free and open-source node-based generative workflow platform.
 - [TripoSR](https://github.com/VAST-AI-Research/TripoSR) - Fast 3D object reconstruction from a single image using AI.
-- [IOPaint](https://github.com/Sanster/IOPaint) - AI-powered image inpainting tool for removing or replacing objects in photos. **(unmaintained)**
 - [DragGAN](https://github.com/XingangPan/DragGAN) - Interactive point-based manipulation for precise control over generative images.
 - [SkyReels V2](https://github.com/SkyworkAI/SkyReels-V2) - Generative model for creating infinite-length AI films.
 - [Sana](https://github.com/NVlabs/Sana) - High-resolution image synthesis using Linear Diffusion Transformers.
@@ -145,7 +142,6 @@ Image generation, video creation, 3D modeling, and visual manipulation tools.
 
 Code editors, coding agents, and development tools.
 
-- [Void](https://github.com/voideditor/void) - Open-source AI-powered code editor designed for agentic development. **(unmaintained)**
 - [DeepCode](https://github.com/HKUDS/DeepCode) - Open agentic coding framework for paper-to-code and web development tasks.
 - [Oh My OpenAgent](https://github.com/code-yeongyu/oh-my-openagent) - Batteries-included agent harness for complex codebases.
 - [Open Lovable](https://github.com/firecrawl/open-lovable) - Tool for cloning and recreating websites as modern React apps using AI.

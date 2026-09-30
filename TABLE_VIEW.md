@@ -8,7 +8,6 @@
 | [Eliza](https://github.com/elizaOS/eliza) | 19.5k | Agent Frameworks | Multi-agent simulation framework with Discord, Telegram, and Twitter integration |
 | [n8n](https://github.com/n8n-io/n8n) | 206.3k | Agent Frameworks | Fair-code workflow automation platform with native AI capabilities and 400+ integrations |
 | [Sim](https://github.com/simstudioai/sim) | 29.8k | Agent Frameworks | Open-source platform to build and deploy AI agent workflows |
-| [Flowise](https://github.com/FlowiseAI/Flowise) | 55.5k | Agent Frameworks | Drag-and-drop interface for building LLM orchestration flows and AI agents (unmaintained) |
 | [Langflow](https://github.com/langflow-ai/langflow) | 155.4k | Agent Frameworks | Low-code platform for building and deploying AI-powered agents and workflows |
 | [SmythOS](https://github.com/SmythOS/sre) | 1.3k | Agent Frameworks | Cloud-native runtime for building, running, and managing agentic AI systems |
 | [Activepieces](https://github.com/activepieces/activepieces) | 24.8k | Agent Frameworks | Open-source AI automation framework with MCP server support |
@@ -40,7 +39,6 @@
 | [Puter](https://github.com/HeyPuter/puter) | 43.6k | Computer Use | Open-source, self-hostable cloud desktop operating system |
 | [Agent-S](https://github.com/simular-ai/Agent-S) | 12.4k | Computer Use | Open agentic framework designed to use computers like a human |
 | [UI-TARS Desktop](https://github.com/bytedance/UI-TARS-desktop) | 39.2k | Computer Use | Open-source multimodal AI agent stack for desktop automation |
-| [Bytebot](https://github.com/bytebot-ai/bytebot) | 11.1k | Computer Use | Self-hosted AI desktop agent that automates computer tasks via natural language (unmaintained) |
 | [Coworker](https://github.com/accomplish-ai/coworker) | 10.9k | Computer Use | Open-source AI coworker that lives on your desktop |
 | [Project NOMAD](https://github.com/Crosstalk-Solutions/project-nomad) | 38.7k | Computer Use | Self-contained, offline survival computer with tools, knowledge, and AI |
 | [CUA](https://github.com/trycua/cua) | 27.3k | Computer Use | Open-source infrastructure for Computer-Use Agents with sandboxes, SDKs, and benchmarks |
@@ -90,7 +88,6 @@
 | [Short Video Maker](https://github.com/gyoridavid/short-video-maker) | 1.4k | Visual & Creative AI | Creates short videos for TikTok, Instagram Reels, and YouTube Shorts using MCP |
 | [Node Banana](https://github.com/shrimbly/node-banana) | 1.6k | Visual & Creative AI | Free and open-source node-based generative workflow platform |
 | [TripoSR](https://github.com/VAST-AI-Research/TripoSR) | 7k | Visual & Creative AI | Fast 3D object reconstruction from a single image using AI |
-| [IOPaint](https://github.com/Sanster/IOPaint) | 23.3k | Visual & Creative AI | AI-powered image inpainting tool for removing or replacing objects in photos (unmaintained) |
 | [DragGAN](https://github.com/XingangPan/DragGAN) | 35.7k | Visual & Creative AI | Interactive point-based manipulation for precise control over generative images |
 | [SkyReels V2](https://github.com/SkyworkAI/SkyReels-V2) | 7.6k | Visual & Creative AI | Generative model for creating infinite-length AI films |
 | [Sana](https://github.com/NVlabs/Sana) | 9.2k | Visual & Creative AI | High-resolution image synthesis using Linear Diffusion Transformers |
@@ -103,7 +100,6 @@
 | [Streamo](https://github.com/maifoundations/Streamo) | 92 | Visual & Creative AI | Streaming video instruction tuning framework for continuous video understanding |
 | [Modly](https://github.com/lightningpixel/modly) | 7.9k | Visual & Creative AI | Desktop app for generating 3D models from images using local AI |
 | [Z-Image](https://github.com/Tongyi-MAI/Z-Image) | 12.1k | Visual & Creative AI | Open-source image generation model from Alibaba's Tongyi team |
-| [Void](https://github.com/voideditor/void) | 28.8k | Developer Tools | Open-source AI-powered code editor designed for agentic development (unmaintained) |
 | [DeepCode](https://github.com/HKUDS/DeepCode) | 16.7k | Developer Tools | Open agentic coding framework for paper-to-code and web development tasks |
 | [Oh My OpenAgent](https://github.com/code-yeongyu/oh-my-openagent) | 69.7k | Developer Tools | Batteries-included agent harness for complex codebases |
 | [Open Lovable](https://github.com/firecrawl/open-lovable) | 28.6k | Developer Tools | Tool for cloning and recreating websites as modern React apps using AI |
@@ -186,4 +182,3 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 ## Notes
 
 - Star counts are a snapshot and will drift over time.
-- Repos marked *(unmaintained)* are archived by their maintainers.
