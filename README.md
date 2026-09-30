@@ -25,21 +25,20 @@ Frameworks for building, deploying, and managing multi-agent systems.
 - [Eliza](https://github.com/elizaOS/eliza) - Multi-agent simulation framework with Discord, Telegram, and Twitter integration.
 - [n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities and 400+ integrations.
 - [Sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
-- [Flowise](https://github.com/FlowiseAI/Flowise) - Drag-and-drop interface for building LLM orchestration flows and AI agents.
+- [Flowise](https://github.com/FlowiseAI/Flowise) - Drag-and-drop interface for building LLM orchestration flows and AI agents. **(unmaintained)**
 - [Langflow](https://github.com/langflow-ai/langflow) - Low-code platform for building and deploying AI-powered agents and workflows.
 - [SmythOS](https://github.com/SmythOS/sre) - Cloud-native runtime for building, running, and managing agentic AI systems.
 - [Activepieces](https://github.com/activepieces/activepieces) - Open-source AI automation framework with MCP server support.
 - [OpenManus](https://github.com/FoundationAgents/OpenManus) - Open-source implementation of an autonomous AI agent.
 - [Letta](https://github.com/letta-ai/letta) - Platform for building stateful agents with memory that learn over time.
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - Experimental open-source application showcasing GPT-4 capabilities for autonomous tasks.
-- [Open Interpreter](https://github.com/open-interpreter/open-interpreter) - Open-source AI agent that executes code on your computer to perform tasks.
+- [Open Interpreter](https://github.com/openinterpreter/openinterpreter) - Open-source AI agent that executes code on your computer to perform tasks.
 - [Huginn](https://github.com/huginn/huginn) - System for creating agents that monitor and act on your behalf across the web.
 - [NextPy](https://github.com/dot-agent/nextpy) - Self-modifying framework for building agentic modular systems.
 - [Ouroboros](https://github.com/razzant/ouroboros) - Runs general-purpose tasks through a desktop app or headless CLI, coordinates specialist agents, preserves identity and memory across restarts, and can modify its own implementation through reviewed Git commits.
 - [DeerFlow](https://github.com/bytedance/deer-flow) - Open-source SuperAgent harness with sandboxes, memories, tools, and subagents.
 - [Hermes Agent](https://github.com/NousResearch/hermes-agent) - Adaptive AI agent platform built on the Hermes model family.
 - [RowBoat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker with persistent memory for long-running tasks.
-- [Accomplish](https://github.com/accomplish-ai/accomplish) - Open-source AI coworker that lives on your desktop and handles multi-step tasks.
 - [Open Agent](https://github.com/AFK-surf/open-agent) - Open-source alternative to Claude Agent SDK, ChatGPT Agents, and Manus.
 - [Shire](https://github.com/victor36max/shire) - Persistent workspaces for AI agent teams with inter-agent mailboxes and shared drive.
 - [Kitaru](https://github.com/zenml-io/kitaru) - Durable execution layer for AI agents with checkpoints, replay, resume, and memory.
@@ -51,6 +50,10 @@ Frameworks for building, deploying, and managing multi-agent systems.
 - [ironclaw](https://github.com/nearai/ironclaw) - Agent OS focused on privacy, security, and extensibility with Rust and WASM.
 - [OpenHarness](https://github.com/HKUDS/OpenHarness) - Open agent harness with a built-in personal agent called Ohmo.
 - [autoresearch](https://github.com/karpathy/autoresearch) - AI agents that run research on single-GPU training automatically.
+- [SwarmForge](https://github.com/unclebob/swarm-forge) - Coordinates AI coding agents in isolated git worktrees and tmux sessions, with durable handoffs and an operator dashboard for approvals and oversight.
+- [Atomic Agents](https://github.com/Eigenwise/atomic-agents) - Lightweight Python framework for building agentic pipelines from composable, single-purpose components built on Pydantic and Instructor.
+- [Pi](https://github.com/earendil-works/pi) - Agent toolkit providing a unified multi-provider LLM API, an agent runtime with tool calling, a terminal UI, and a self-extensible coding agent CLI.
+- [MiroFish](https://github.com/666ghj/MiroFish) - Swarm-intelligence engine that builds multi-agent simulated worlds from seed data to explore predictions and social dynamics.
 
 ## Computer-Use & Desktop Automation
 
@@ -59,7 +62,7 @@ Agents that control desktops, interact with operating systems, and automate comp
 - [Puter](https://github.com/HeyPuter/puter) - Open-source, self-hostable cloud desktop operating system.
 - [Agent-S](https://github.com/simular-ai/Agent-S) - Open agentic framework designed to use computers like a human.
 - [UI-TARS Desktop](https://github.com/bytedance/UI-TARS-desktop) - Open-source multimodal AI agent stack for desktop automation.
-- [Bytebot](https://github.com/bytebot-ai/bytebot) - Self-hosted AI desktop agent that automates computer tasks via natural language.
+- [Bytebot](https://github.com/bytebot-ai/bytebot) - Self-hosted AI desktop agent that automates computer tasks via natural language. **(unmaintained)**
 - [Coworker](https://github.com/accomplish-ai/coworker) - Open-source AI coworker that lives on your desktop.
 - [Project NOMAD](https://github.com/Crosstalk-Solutions/project-nomad) - Self-contained, offline survival computer with tools, knowledge, and AI.
 - [CUA](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents with sandboxes, SDKs, and benchmarks.
@@ -83,6 +86,9 @@ Browser control, web scraping, and internet interaction agents.
 - [Browser Harness](https://github.com/browser-use/browser-harness) - Self-healing harness that enables LLMs to complete browser tasks.
 - [Agent Reach](https://github.com/Panniantong/Agent-Reach) - Tool for giving AI agents access to Twitter, Reddit, YouTube, GitHub, and more.
 - [AIHawk](https://github.com/feder-cr/AIHawk) - Open-source AI browser agent that browses, clicks, types, and reads the web from plain-English instructions, available as an MCP server (Claude Code, Codex, Gemini CLI) or a standalone web UI.
+- [browser-use](https://github.com/browser-use/browser-use) - Library for building agents that see, navigate, and interact with web browsers.
+- [Stagehand](https://github.com/browserbase/stagehand) - SDK built on Playwright for authoring browser agents that extract data and interact with websites.
+- [Lightpanda](https://github.com/lightpanda-io/browser) - Headless browser written in Zig, built for AI and automation, compatible with CDP, Playwright, and Puppeteer.
 
 ## Voice & Conversational AI
 
@@ -95,7 +101,7 @@ Text-to-speech, speech-to-text, voice assistants, and real-time audio systems.
 - [Chatterbox](https://github.com/resemble-ai/chatterbox) - Open-source text-to-speech engine for realistic voices.
 - [VibeVoice](https://github.com/microsoft/VibeVoice) - Open-source voice AI for audio synthesis.
 - [Kokoro TTS](https://github.com/nazdridoy/kokoro-tts) - CLI-based text-to-speech tool utilizing the Kokoro model for multiple languages.
-- [Fun Audio Chat](https://github.com/FunAudioLLM/Fun-Audio-Chat) - Large audio language model for natural, low-latency voice interactions.
+- [Fun Audio Chat](https://github.com/QwenAudio/Fun-Audio-Chat) - Large audio language model for natural, low-latency voice interactions.
 - [Dia](https://github.com/nari-labs/dia) - TTS model capable of generating realistic dialogue in a single pass.
 - [MLX Audio](https://github.com/Blaizzy/mlx-audio) - Text-to-speech, speech-to-text, and speech-to-speech library built on Apple's MLX framework.
 - [KittenTTS](https://github.com/KittenML/KittenTTS) - TTS model under 25MB for compact, high-quality voice synthesis.
@@ -121,7 +127,7 @@ Image generation, video creation, 3D modeling, and visual manipulation tools.
 - [Short Video Maker](https://github.com/gyoridavid/short-video-maker) - Creates short videos for TikTok, Instagram Reels, and YouTube Shorts using MCP.
 - [Node Banana](https://github.com/shrimbly/node-banana) - Free and open-source node-based generative workflow platform.
 - [TripoSR](https://github.com/VAST-AI-Research/TripoSR) - Fast 3D object reconstruction from a single image using AI.
-- [IOPaint](https://github.com/Sanster/IOPaint) - AI-powered image inpainting tool for removing or replacing objects in photos.
+- [IOPaint](https://github.com/Sanster/IOPaint) - AI-powered image inpainting tool for removing or replacing objects in photos. **(unmaintained)**
 - [DragGAN](https://github.com/XingangPan/DragGAN) - Interactive point-based manipulation for precise control over generative images.
 - [SkyReels V2](https://github.com/SkyworkAI/SkyReels-V2) - Generative model for creating infinite-length AI films.
 - [Sana](https://github.com/NVlabs/Sana) - High-resolution image synthesis using Linear Diffusion Transformers.
@@ -139,7 +145,7 @@ Image generation, video creation, 3D modeling, and visual manipulation tools.
 
 Code editors, coding agents, and development tools.
 
-- [Void](https://github.com/voideditor/void) - Open-source AI-powered code editor designed for agentic development.
+- [Void](https://github.com/voideditor/void) - Open-source AI-powered code editor designed for agentic development. **(unmaintained)**
 - [DeepCode](https://github.com/HKUDS/DeepCode) - Open agentic coding framework for paper-to-code and web development tasks.
 - [Oh My OpenAgent](https://github.com/code-yeongyu/oh-my-openagent) - Batteries-included agent harness for complex codebases.
 - [Open Lovable](https://github.com/firecrawl/open-lovable) - Tool for cloning and recreating websites as modern React apps using AI.
@@ -150,9 +156,11 @@ Code editors, coding agents, and development tools.
 - [CodeGraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph that auto-syncs on code changes for multiple AI coding tools.
 - [Persona](https://github.com/runtypelabs/persona) - Toolkit for creating agentic front-end experiences for the web with WebMCP support.
 - [CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad) - Multi-agent coding orchestration platform for parallel AI-assisted development.
-- [sandcastle](https://github.com/mattpocock/sandcastle) - Sandbox for testing and developing Claude Code skills.
+- [sandcastle](https://github.com/mattpocock/sandcastle) - TypeScript library for orchestrating sandboxed coding agents.
 - [OpenBot](https://github.com/CopilotKit/OpenBot) - Open-source coding agent for VS Code powered by CopilotKit.
 - [Mysti](https://github.com/DeepMyst/Mysti) - AI coding dream team of agents for VS Code that debate and synthesize solutions.
+- [Ponytail](https://github.com/DietrichGebert/ponytail) - Agent skill and rules package that steers coding agents toward writing minimal code.
+- [OpenClaude](https://github.com/Twigpine/openclaude) - Open-source coding-agent CLI that works with cloud and local model providers, with tools, agents, and MCP support.
 
 ## LLM Infrastructure & Model Serving
 
@@ -163,6 +171,7 @@ Model hosting, fine-tuning, API gateways, and inference optimization.
 - [Unsloth](https://github.com/unslothai/unsloth) - Fine-tuning and reinforcement learning framework for LLMs.
 - [LLMFit](https://github.com/AlexsJones/llmfit) - Tool for discovering hundreds of models across providers to find what runs on your hardware.
 - [Headroom](https://github.com/headroomlabs-ai/headroom) - Tool for compressing tool outputs, logs, files, and RAG chunks before they reach the LLM.
+- [RTK](https://github.com/rtk-ai/rtk) - Rust CLI proxy that filters and compresses command output before it reaches the LLM context.
 - [freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy that stacks free tiers of 28 LLM providers behind a single endpoint with smart routing and failover.
 - [PowerInfer](https://github.com/Tiiny-AI/PowerInfer) - High-speed LLM serving for local deployment with CPU/GPU heterogeneous inference.
 
@@ -198,6 +207,7 @@ OCR, knowledge graphs, memory systems, and data infrastructure.
 - [memU](https://github.com/NevaMind-AI/memU) - Memory system designed for 24/7 proactive agents.
 - [Unbody](https://github.com/unbody-io/unbody) - Modular, open-source backend for building AI-native software designed for knowledge.
 - [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Turns codebases into interactive knowledge graphs for AI agents to explore, search, and query.
+- [OpenMed](https://github.com/maziyarpanahi/openmed) - Local-first clinical NLP toolkit for medical entity recognition and HIPAA PII de-identification that runs entirely on-device.
 
 ## Datasets & Benchmarks
 
@@ -206,6 +216,7 @@ Open datasets, evaluation benchmarks, and reference collections for agent system
 - [Open LLMs](https://github.com/eugeneyan/open-llms) - Curated list of open LLMs available for commercial and research use.
 - [System Prompts and Models of AI Tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - Collection of system prompts and models for various AI tools.
 - [12-Factor Agents](https://github.com/humanlayer/12-factor-agents) - Principles for building LLM-powered software that is production-ready.
+- [Harness Engineering](https://github.com/lopopolo/harness-engineering) - Field guide and anthology on harness engineering: improving agent output by curating the context, tools, and environment around a model.
 
 ## Productivity & Personal Assistants
 
@@ -225,6 +236,8 @@ Chat interfaces, personal AI assistants, and productivity tools.
 - [Jan](https://github.com/janhq/jan) - Open-source alternative to ChatGPT that runs offline on your machine.
 - [Open WebUI](https://github.com/open-webui/open-webui) - Self-hosted web interface for interacting with various LLMs.
 - [Agentic Inbox](https://github.com/cloudflare/agentic-inbox) - Self-hosted email client with an AI agent, running on Cloudflare Workers.
+- [Rakazo](https://github.com/elie222/rakazo) - Self-hostable platform for running persistent AI teammates with memory, routines, voice mode, and browser, terminal, and desktop access across web, desktop, and mobile apps.
+- [Feynman](https://github.com/Companion-Inc/feynman) - CLI research agent for literature review, deep research, paper critique, and replication planning with citation tracking.
 
 ## MCP & Tool Integration
 
@@ -235,7 +248,8 @@ Model Context Protocol servers, tool integrations, and API connectivity.
 - [Metorial](https://github.com/metorial/metorial) - Platform for connecting any AI model to 600+ integrations via MCP.
 - [Interactive MCP](https://github.com/ttommyth/interactive-mcp) - Local, cross-platform MCP server for human-in-the-loop interaction with AI agents.
 - [JSON Render](https://github.com/vercel-labs/json-render) - Tool for dynamically rendering AI-generated JSON data into user interfaces.
-- [OpenSandbox](https://github.com/alibaba/OpenSandbox) - General-purpose sandbox platform for AI applications with multi-language SDKs.
+- [OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - General-purpose sandbox platform for AI applications with multi-language SDKs.
+- [Monid](https://github.com/monid-ai/monid) - Unified gateway giving agents access to 2,000+ tools across multiple providers, with endpoint discovery and per-call metering.
 
 ## Contributing
 
